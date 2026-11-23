@@ -1,0 +1,120 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resource/PHILIPS_TUI/1.png</file>
+        <file>Resource/PHILIPS_TUI/报错状态.png</file>
+        <file>Resource/PHILIPS_TUI/报错状态2.png</file>
+        <file>Resource/PHILIPS_TUI/背景图.png</file>
+        <file>Resource/PHILIPS_TUI/背景图2.png</file>
+        <file>Resource/PHILIPS_TUI/常规状态.png</file>
+        <file>Resource/PHILIPS_TUI/登录.png</file>
+        <file>Resource/PHILIPS_TUI/登录2.png</file>
+        <file>Resource/PHILIPS_TUI/对中.png</file>
+        <file>Resource/PHILIPS_TUI/对中2.png</file>
+        <file>Resource/PHILIPS_TUI/对中2备份.png</file>
+        <file>Resource/PHILIPS_TUI/对中2备份 2.png</file>
+        <file>Resource/PHILIPS_TUI/对中2备份 3.png</file>
+        <file>Resource/PHILIPS_TUI/对中2备份 4.png</file>
+        <file>Resource/PHILIPS_TUI/对中备份 8.png</file>
+        <file>Resource/PHILIPS_TUI/对中备份 9.png</file>
+        <file>Resource/PHILIPS_TUI/对中备份 10.png</file>
+        <file>Resource/PHILIPS_TUI/对中备份 11.png</file>
+        <file>Resource/PHILIPS_TUI/欢迎界面.png</file>
+        <file>Resource/PHILIPS_TUI/欢迎界面2.png</file>
+        <file>Resource/PHILIPS_TUI/欢迎界面2备份.png</file>
+        <file>Resource/PHILIPS_TUI/欢迎界面2备份 2.png</file>
+        <file>Resource/PHILIPS_TUI/欢迎界面备份.png</file>
+        <file>Resource/PHILIPS_TUI/欢迎界面备份 2.png</file>
+        <file>Resource/PHILIPS_TUI/患者信息.png</file>
+        <file>Resource/PHILIPS_TUI/患者信息2.png</file>
+        <file>Resource/PHILIPS_TUI/机架校准.png</file>
+        <file>Resource/PHILIPS_TUI/机架校准备份.png</file>
+        <file>Resource/PHILIPS_TUI/机架校准备份 2.png</file>
+        <file>Resource/PHILIPS_TUI/机架校准备份 3.png</file>
+        <file>Resource/PHILIPS_TUI/机架校准备份 6.png</file>
+        <file>Resource/PHILIPS_TUI/机架校准备份 7.png</file>
+        <file>Resource/PHILIPS_TUI/急停2备份.png</file>
+        <file>Resource/PHILIPS_TUI/急停备份.png</file>
+        <file>Resource/PHILIPS_TUI/拼接2备份.png</file>
+        <file>Resource/PHILIPS_TUI/拼接2备份 5.png</file>
+        <file>Resource/PHILIPS_TUI/拼接2备份 6.png</file>
+        <file>Resource/PHILIPS_TUI/拼接2备份 7.png</file>
+        <file>Resource/PHILIPS_TUI/拼接备份.png</file>
+        <file>Resource/PHILIPS_TUI/拼接备份 5.png</file>
+        <file>Resource/PHILIPS_TUI/拼接备份 6.png</file>
+        <file>Resource/PHILIPS_TUI/拼接备份 7.png</file>
+        <file>Resource/PHILIPS_TUI/曝光2备份.png</file>
+        <file>Resource/PHILIPS_TUI/曝光2备份 3.png</file>
+        <file>Resource/PHILIPS_TUI/曝光备份.png</file>
+        <file>Resource/PHILIPS_TUI/曝光备份 3.png</file>
+        <file>Resource/PHILIPS_TUI/切图.png</file>
+        <file>Resource/PHILIPS_TUI/摄像机.png</file>
+        <file>Resource/PHILIPS_TUI/摄像机2.png</file>
+        <file>Resource/PHILIPS_TUI/摄像机关闭.png</file>
+        <file>Resource/PHILIPS_TUI/摄像机关闭2.png</file>
+        <file>Resource/PHILIPS_TUI/摄像机拼接.png</file>
+        <file>Resource/PHILIPS_TUI/摄像机拼接 2.png</file>
+        <file>Resource/PHILIPS_TUI/设置.png</file>
+        <file>Resource/PHILIPS_TUI/设置2.png</file>
+        <file>Resource/PHILIPS_TUI/设置2备份2.png</file>
+        <file>Resource/PHILIPS_TUI/设置2备份 2.png</file>
+        <file>Resource/PHILIPS_TUI/设置备份2.png</file>
+        <file>Resource/PHILIPS_TUI/设置备份 2.png</file>
+        <file>Resource/PHILIPS_TUI/实时摄像机不可使用.png</file>
+        <file>Resource/PHILIPS_TUI/实时摄像机不可使用2.png</file>
+        <file>Resource/PHILIPS_TUI/探测器连接失败2备份.png</file>
+        <file>Resource/PHILIPS_TUI/探测器连接失败备份.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗2.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗2备份 7.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗2备份 8.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗2备份 9.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗2备份 10.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗2备份 11.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗2备份 12.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗备份 7.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗备份 8.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗备份 9.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗备份 10.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗备份 11.png</file>
+        <file>Resource/PHILIPS_TUI/下拉弹窗备份 12.png</file>
+        <file>Resource/PHILIPS_TUI/协议选择.png</file>
+        <file>Resource/PHILIPS_TUI/协议选择2.png</file>
+        <file>Resource/PHILIPS_TUI/协议选择2备份 2.png</file>
+        <file>Resource/PHILIPS_TUI/协议选择备份 4.png</file>
+        <file>Resource/PHILIPS_TUI/一键位.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2备份 11.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2备份 12.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2备份 13.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2备份 14.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2备份 15.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2备份 16.png</file>
+        <file>Resource/PHILIPS_TUI/一键位2备份 17.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 12.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 13.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 14.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 15.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 16.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 17.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 18.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 19.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 20.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 21.png</file>
+        <file>Resource/PHILIPS_TUI/一键位备份 22.png</file>
+        <file>Resource/PHILIPS_TUI/已拍摄图像.png</file>
+        <file>Resource/PHILIPS_TUI/已拍摄图像2.png</file>
+        <file>Resource/PHILIPS_TUI/自由板选择.png</file>
+        <file>Resource/PHILIPS_TUI/自由板选择2.png</file>
+        <file>Resource/PHILIPS_TUI/自由板选择备份.png</file>
+        <file>Resource/PHILIPS_TUI/error.png</file>
+        <file>Resource/PHILIPS_TUI/error2.png</file>
+        <file>Resource/PHILIPS_TUI/_info1.gray</file>
+        <file>Resource/PHILIPS_TUI/info.png</file>
+        <file>Resource/PHILIPS_TUI/info(1).png</file>
+        <file>Resource/PHILIPS_TUI/warning.png</file>
+        <file>Resource/PHILIPS_TUI/warning2.png</file>
+        <file>Resource/PHILIPS_TUI/warning2备份.png</file>
+        <file>Resource/PHILIPS_TUI/Workflow.png</file>
+        <file>Resource/PHILIPS_TUI/Workflow2.png</file>
+    </qresource>
+</RCC>

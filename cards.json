@@ -1,0 +1,30 @@
+{
+  "_readme": [
+    "myui 下拉卡片配置。板上放到 /etc/myui/cards.json，重启 myui 生效（/etc/init.d/S50myui restart）。",
+    "删掉这个文件 = 全部使用代码里的设计稿默认值（与设计稿逐像素一致）。",
+    "items 每项可写字符串，或 {\"text\":\"...\",\"icon\":\":/mselect/xxx.png\"}；icon 留空表示该列没有图标。",
+    "default 按行文字匹配（忽略空格和大小写），写错会打警告并退回不指定。",
+    "visibleRows 只在 items 比它更多时起作用：面板高度锁定不变，改为滚动（拖滑块 / 点轨道 / 拖列表 / 滚轮）。",
+    "title 不写 = 用代码里的设计稿标题。字号和位置永远走代码，别在这里配，会破坏逐像素对齐。",
+    "JSON 写坏不会崩：打印警告并整套退回默认值，日志在 /tmp/myui.log。",
+    "查当前到底读到了哪份、内容是什么：myui --dump-cards",
+    "下面这份内容与代码默认值完全相同，可以作为改动的起点。"
+  ],
+  "cards": {
+    "targetEi": {
+      "title": "Target exposure index",
+      "items": ["50", "64", "80", "100", "125"]
+    },
+    "focal": {
+      "title": "Focal Spot",
+      "items": [
+        { "text": "Small", "icon": ":/mselect/icon_chk_small.png" },
+        { "text": "Large", "icon": ":/mselect/icon_chk_large.png" }
+      ]
+    },
+    "exposure": {
+      "title": "Exposure parameters",
+      "items": ["kV\u2212mAs", "kV\u2212mAs\u2212ms", "kV\u2212mA\u2212ms"]
+    }
+  }
+}

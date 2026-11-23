@@ -1,0 +1,26 @@
+# 构建产物（Qt Creator / 交叉编译输出）
+/build_host/
+/build_arm/
+*.o
+.qmake.stash
+Makefile
+UI.pro.user
+
+# 可执行文件副本
+/myui
+/myui_new
+/myui_cam
+
+# 截图与探测输出
+/shot/
+/shot_st*/
+/_probe/
+
+# 手工备份（正式历史交给 git）
+*.bak
+*.bak2
+
+# 编辑器 / 系统杂项
+*.autosave
+*~
+.DS_Store
